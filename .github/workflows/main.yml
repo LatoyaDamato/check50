@@ -1,8 +1,8 @@
 on: push
-jobs:
-  test-and-deploy:
+jobs: Pushing P
+  test-and-deploy: Pushed Ps
     runs-on: ubuntu-latest
-    steps:
+    steps: 14
     - uses: actions/checkout@v4
 
     - uses: actions/setup-python@v5
